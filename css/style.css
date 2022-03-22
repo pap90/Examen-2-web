@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;300;400;500;600;700;800;900&display=swap%27');
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+body{
+	font-family: 'Catamaran', sans-serif;
+	
+}
+
+header{
+	background-color: #fff;
+}
+.hero{
+	background-image: url("../img/Services-Title-Image.jpg");
+	height: 50%;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: auto;
+ 	position: relative;
+	padding: 100px;
+	
+}
+.text{
+	text-align: center;
+	color: #fff;
+}
+#iconos{
+    padding: 60px;
+    text-align: center;
+}
+
+#iconos i{
+    font-size: 100px;
+    color: #e0e0e0;
+    margin-bottom: 20px;
+}
+#iconos .cheke i{
+	font-size: 50px;
+	color: #53c3c9;
+}
+.titulo{
+	text-align: center;
+	
+}
+.titulo-what{
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 40px;
+	
+}
+.upto-cont{
+	text-align: center;
+	padding-bottom: 40px;
+	
+}
+.contenido{
+	color: #898989;
+	text-align: center;
+
+}
+.informacion{
+	background-color: #f7f7f7;
+}
+.woocomerce{
+	background-color: #d8d8d8;
+}
+.pixelperfect{
+	background-color: #f0f0f0;
+	
+}
+.fully{
+	background-color: #3d4248;
+}
+.titulo{
+	color: #282d33;
+
+}
+
+.features{
+	padding-top: 40px;
+	
+}
+.titcol{
+	color: white;
+	text-align: center;
+}
+.titcol2{
+	text-align: center;
+	color: white;
+}
+.titcol3{
+	color:  #282d33;
+	text-align: center;
+}
+.contenido2{
+	padding-top: 20px;
+	text-align: center;
+	padding-bottom: 40px;
+	color: #898989;
+}
+.contenido3{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+.contenido4{
+	text-align: center;
+	color: #898989;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+.button {
+  background-color: #161616; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+	
+}
+.titfoot{
+	color: white;
+	text-align: justify;
+	padding: 60px;
+}
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+}
+
